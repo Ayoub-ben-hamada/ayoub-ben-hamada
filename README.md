@@ -34,6 +34,6 @@ Feel free to check out my repositories to see some of the projects I am working 
 
 ### Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/benhamada-ayoub-a791491b4/)
-- [Portfolio](coming-soon) *(working on it)*
+- [Portfolio](https://iamayoub.netlify.app/) *(working on it)
 
 Thanks for visiting my GitHub! 😊
